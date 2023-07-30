@@ -1,10 +1,10 @@
 # HTTPS-BYPASSv2
 
-SCRIPT DDOS FREE BY : DagTriZaker <3 
+SCRIPT DDOS BUYY BY : HAFFIZ
 
-Không đem bán dưới mọi hình thức hãy là người dùng văn minh :V
+SCRIPT MILIK HAFFIZ
 
-Lệnh SETUP & RUN
+TUTOR SETUP DAN RUNNING
 
 git clone https://github.com/dangminhtri123/HTTPS-BYPASSv2
 
@@ -14,6 +14,6 @@ npm i fake-useragent
 
 node HTTPS-BYPASSv2.js + URL/TARGET + TIME + THREADS + LIST PROXY :V
 
-VÍ DỤ :
+CONTOH :
 
 node HTTPS-BYPASSv2.js https://dagtriDepTrai.com 60 5 PROXYVIP.txt
